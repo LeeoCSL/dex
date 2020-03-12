@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57984398362",
+    "firebase_url": "https://pdex-d6658.firebaseio.com",
+    "project_id": "pdex-d6658",
+    "storage_bucket": "pdex-d6658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57984398362:android:4c4f8b906d4303da3c4da3",
+        "android_client_info": {
+          "package_name": "com.dex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57984398362-a9h2v2cnb45g3cjpimt3mus0a4537b4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh6wTQs6pdFazIcgL_CkYWuzbCAj1kS9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57984398362-a9h2v2cnb45g3cjpimt3mus0a4537b4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
